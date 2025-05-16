@@ -186,3 +186,7 @@ set JAVA_HOME=C:\Java
 
 Would you also like me to give you a **single downloadable `.bat` file to automate all steps on Windows?**
 If yes, just say "**Yes, script.**"
+
+
+sudo apt update 
+sudo apt install -y build-essential linux-headers-$(uname -г) 
